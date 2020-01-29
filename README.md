@@ -1,2 +1,2 @@
 # belajar-git
-repositori untik menyimpan rencana kedepannya
+repositori untuk menyimpan rencana kedepannya
